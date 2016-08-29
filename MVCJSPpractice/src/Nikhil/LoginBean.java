@@ -20,6 +20,10 @@ public boolean validate(){
         return false;  
     }  
 }
+
+
+
+
 public String getStudnumber() {
 	return studnumber;
 }
